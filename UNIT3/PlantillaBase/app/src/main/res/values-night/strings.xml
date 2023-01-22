@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="validate_email">validar email</string>
+    <string name="validate_username">validar usuario</string>
+    <string name="a_adir">añadir</string>
+</resources>

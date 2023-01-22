@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloYou</string>
+    <string name="Bienvenido">Welcome %s</string>
+    <string name="volver">Back</string>
+    <string name="enviar">Send</string>
+    <string name="nombre">¿What is your name?</string>
+</resources>

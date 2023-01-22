@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Data TimePicker</string>
+    <string name="reserva_en_restaurante_aris">Reserva en Restaurante Aris</string>
+    <string name="cu_ndo_quieres_ir">¿Cuándo quieres ir?</string>
+    <string name="a_qu_hora">¿A qué hora?</string>
+</resources>

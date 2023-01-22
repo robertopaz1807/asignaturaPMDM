@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCardView</string>
+    <string name="tarjeta_1">Mi Tarjeta.</string>
+    <string name="tarjeta_2">San Francisco.</string>
+</resources>

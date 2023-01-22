@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Primer Widget</string>
+    <string name="mi_primer_widget">Mi Primer Widget</string>
+    <string name="mensaje_personalizado">Mensaje Personalizado</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

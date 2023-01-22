@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 1.1"
+        android:background="#F44336"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 1.2"
+        android:background="#E91E63"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 1.3"
+        android:background="#9C27B0"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 2.1"
+        android:background="#3F51B5"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 2.2"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 2.3"
+        android:background="#009688"/>
+
+    <TextView
+        android:layout_columnSpan="2"
+        android:layout_columnWeight="1"
+        android:text="Celda doble de ancho 3.1"
+        android:background="#00BCD4"/>
+
+    <TextView
+        android:layout_columnWeight="1"
+        android:text="Celda 3.2"
+        android:background="#4CAF50"  />
+</GridLayout>

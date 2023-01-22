@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaTu</string>
+    <string name="Bienvenido">Bienvenido %s</string>
+    <string name="volver">volver</string>
+    <string name="enviar">enviar</string>
+    <string name="nombre">¿Cúal es tu Nombre?</string>
+</resources>

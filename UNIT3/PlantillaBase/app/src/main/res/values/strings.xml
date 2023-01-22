@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Plantilla Base</string>
+    <string name="error_email" />
+    <string name="error_empty" />
+    <string name="error_username" />
+    <string name="error_password_confirm" />
+    <string name="validate_email">validar email</string>
+    <string name="validate_username">validar usuario</string>
+    <string name="validate_password">valiar contraseña</string>
+    <string name="validate_password_confirm">confirmar validar contraselña</string>
+    <string name="validate_btn">validar boton</string>
+    <string name="a_adir">añadir</string>
+</resources>
